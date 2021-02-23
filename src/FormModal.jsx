@@ -12,7 +12,7 @@ const Container = styled.div`
 const ButtonWrapper = styled.div`
     display: flex;
     justify-content: space-between;
-    mergin-top: 24px;
+    margin-top: 24px;
 `
 
 export const FormModal = ({confirm, cancel}) => {
